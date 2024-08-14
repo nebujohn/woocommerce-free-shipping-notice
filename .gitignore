@@ -1,0 +1,27 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor Folders
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Compiled/Minified Assets
+*.min.js
+*.min.css
+
+# Backup Files
+*.bak
+*.swp
+*~
+
+# WordPress Plugin Specific
+*.log
+
+# Misc
+*.zip
+*.tar.gz

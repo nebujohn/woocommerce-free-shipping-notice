@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: WooCommerce Free Shipping Notice
- * Plugin URI: https://ajithrn.com/
+ * Plugin URI: https://github.com/ajithrn/woocommerce-free-shipping-notice
  * Description: Displays a dynamic free shipping notice on cart and checkout pages.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Ajith R N
  * Author URI: https://ajithrn.com/
  * Text Domain: woocommerce-free-shipping-notice
@@ -12,7 +12,6 @@
  * Requires PHP: 7.2
  * WC requires at least: 3.0
  * WC tested up to: 9.0
- * Woo: 12345:342928dfsfhsf8429842374wdf4234sfd
  *
  * @package WooCommerce_Free_Shipping_Notice
  */

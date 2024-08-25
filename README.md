@@ -80,3 +80,12 @@ For a detailed list of changes and version updates, please refer to the [CHANGEL
 ## Version
 
 Current version: 1.0.0 (Released: 2023-08-15)
+
+## Screenshots
+
+![Screenshot Cart Page](https://github.com/nebujohn/woocommerce-free-shipping-notice/blob/main/assets/screenshot-1.png?raw=true)
+
+![Screenshot Checkout Page](https://github.com/nebujohn/woocommerce-free-shipping-notice/blob/main/assets/screenshot-2.png?raw=true)
+
+![Screenshot Plugin Configuration](https://github.com/nebujohn/woocommerce-free-shipping-notice/blob/main/assets/screenshot-3.png?raw=true)
+
